@@ -1,0 +1,195 @@
+
+   Country                          Code  Slug                               New Cases   Total Cases   New Deaths   Total Deaths  New Recovered  Total Recovered            Date
+==============================================================================================================================================================================================
+   Afghanistan                       AF   afghanistan                               18        55,664            1          2,436            119         49,086     2021-02-25T04:49:48.689Z
+   Albania                           AL   albania                                1,021       103,327           19          1,715            906         66,309     2021-02-25T04:49:48.689Z
+   Algeria                           DZ   algeria                                  182       112,461            3          2,970            155         77,537     2021-02-25T04:49:48.689Z
+   Andorra                           AD   andorra                                   36        10,775            0            110             34         10,319     2021-02-25T04:49:48.689Z
+   Angola                            AO   angola                                    56        20,640            1            501             14         19,221     2021-02-25T04:49:48.689Z
+   Antigua and Barbuda               AG   antigua-and-barbuda                        0           636            0             14              0            233     2021-02-25T04:49:48.689Z
+   Argentina                         AR   argentina                              3,596     2,080,824           14         51,524          3,992      1,881,890     2021-02-25T04:49:48.689Z
+   Armenia                           AM   armenia                                  273       170,945            4          3,175            188        162,517     2021-02-25T04:49:48.689Z
+   Australia                         AU   australia                                  2        28,939            0            909              7         22,892     2021-02-25T04:49:48.689Z
+   Austria                           AT   austria                                2,005       450,376           36          8,470          1,334        424,348     2021-02-25T04:49:48.689Z
+   Azerbaijan                        AZ   azerbaijan                               220       233,644            2          3,206            145        228,157     2021-02-25T04:49:48.689Z
+   Bahamas                           BS   bahamas                                   19         8,496            0            179             43          7,274     2021-02-25T04:49:48.689Z
+   Bahrain                           BH   bahrain                                  653       119,858            4            437            632        112,323     2021-02-25T04:49:48.689Z
+   Bangladesh                        BD   bangladesh                               428       544,544            5          8,379            911        493,798     2021-02-25T04:49:48.689Z
+   Barbados                          BB   barbados                                  55         2,907            1             32             29          2,092     2021-02-25T04:49:48.689Z
+   Belarus                           BY   belarus                                1,279       281,707            9          1,939          1,444        271,733     2021-02-25T04:49:48.689Z
+   Belgium                           BE   belgium                                2,102       757,696           33         21,956              0              0     2021-02-25T04:49:48.689Z
+   Belize                            BZ   belize                                     7        12,271            1            315             17         11,816     2021-02-25T04:49:48.689Z
+   Benin                             BJ   benin                                      0         5,434            0             70              0          4,248     2021-02-25T04:49:48.689Z
+   Bhutan                            BT   bhutan                                     0           867            0              1              0            862     2021-02-25T04:49:48.689Z
+   Bolivia                           BO   bolivia                                    0       244,380            0         11,508              0        188,645     2021-02-25T04:49:48.689Z
+   Bosnia and Herzegovina            BA   bosnia-and-herzegovina                   577       129,753           17          5,051            673        114,361     2021-02-25T04:49:48.689Z
+   Botswana                          BW   botswana                                   0        27,721            0            300              0         22,773     2021-02-25T04:49:48.689Z
+   Brazil                            BR   brazil                                62,715    10,257,875        1,386        248,529         81,698      9,189,903     2021-02-25T04:49:48.689Z
+   Brunei Darussalam                 BN   brunei                                     0           185            0              3              0            178     2021-02-25T04:49:48.689Z
+   Bulgaria                          BG   bulgaria                               1,733       242,124           48         10,026            505        202,005     2021-02-25T04:49:48.689Z
+   Burkina Faso                      BF   burkina-faso                              19        11,887            1            142             27         11,320     2021-02-25T04:49:48.689Z
+   Burundi                           BI   burundi                                   28         2,069            0              3              0            773     2021-02-25T04:49:48.689Z
+   Cambodia                          KH   cambodia                                   0           633            0              0              0            476     2021-02-25T04:49:48.689Z
+   Cameroon                          CM   cameroon                                   0        33,749            0            523              0         31,362     2021-02-25T04:49:48.689Z
+   Canada                            CA   canada                                 2,946       725,774           31         19,907          3,750        805,428     2021-02-25T04:49:48.689Z
+   Cape Verde                        CV   cape-verde                                72        15,161            1            145             30         14,638     2021-02-25T04:49:48.689Z
+   Central African Republic          CF   central-african-republic                   3         5,004            0             63              0          4,920     2021-02-25T04:49:48.689Z
+   Chad                              TD   chad                                      22         3,904            0            136             30          3,398     2021-02-25T04:49:48.689Z
+   Chile                             CL   chile                                  2,308       805,317           25         20,151          3,327        763,904     2021-02-25T04:49:48.689Z
+   China                             CN   china                                     23       100,807            0          4,833             39         95,327     2021-02-25T04:49:48.689Z
+   Colombia                          CO   colombia                               3,926     2,233,589          144         59,118          4,796      2,129,491     2021-02-25T04:49:48.689Z
+   Comoros                           KM   comoros                                   17         3,539            0            144             15          3,190     2021-02-25T04:49:48.689Z
+   Congo (Brazzaville)               CG   congo-brazzaville                        195         8,820            1            128              0          7,019     2021-02-25T04:49:48.689Z
+   Congo (Kinshasa)                  CD   congo-kinshasa                             0        25,144            0            700              0         16,135     2021-02-25T04:49:48.689Z
+   Costa Rica                        CR   costa-rica                               399       203,496            8          2,793            505        174,096     2021-02-25T04:49:48.689Z
+   Croatia                           HR   croatia                                  688       241,048           15          5,477            195        232,892     2021-02-25T04:49:48.689Z
+   Cuba                              CU   cuba                                     699        46,896            4            308            924         41,903     2021-02-25T04:49:48.689Z
+   Cyprus                            CY   cyprus                                   143        33,710            1            231              0          2,057     2021-02-25T04:49:48.689Z
+   Czech Republic                    CZ   czech-republic                        15,861     1,184,352          145         19,682          9,299      1,037,430     2021-02-25T04:49:48.689Z
+   Côte d'Ivoire                     CI   cote-divoire                             171        32,295            0            188            128         31,224     2021-02-25T04:49:48.689Z
+   Denmark                           DK   denmark                                    0       209,244            1          2,345              0        200,948     2021-02-25T04:49:48.689Z
+   Djibouti                          DJ   djibouti                                   0         6,052            0             63              5          5,886     2021-02-25T04:49:48.689Z
+   Dominica                          DM   dominica                                   0           141            0              0              0            126     2021-02-25T04:49:48.689Z
+   Dominican Republic                DO   dominican-republic                       673       236,883            9          3,066            719        187,422     2021-02-25T04:49:48.689Z
+   Ecuador                           EC   ecuador                                2,999       278,779           67         15,634              0        238,817     2021-02-25T04:49:48.689Z
+   Egypt                             EG   egypt                                    644       180,051           52         10,495            389        139,072     2021-02-25T04:49:48.689Z
+   El Salvador                       SV   el-salvador                                0        59,235            8          1,823              0         54,324     2021-02-25T04:49:48.689Z
+   Equatorial Guinea                 GQ   equatorial-guinea                          0         5,852            0             91              0          5,559     2021-02-25T04:49:48.689Z
+   Eritrea                           ER   eritrea                                   16         2,789            0              7             14          2,173     2021-02-25T04:49:48.689Z
+   Estonia                           EE   estonia                                1,068        60,475            4            557            804         47,139     2021-02-25T04:49:48.689Z
+   Ethiopia                          ET   ethiopia                                 977       155,234           11          2,316            387        133,438     2021-02-25T04:49:48.689Z
+   Fiji                              FJ   fiji                                       1            57            0              2              0             54     2021-02-25T04:49:48.689Z
+   Finland                           FI   finland                                  590        55,122            3            737              0         40,000     2021-02-25T04:49:48.689Z
+   France                            FR   france                                     0     3,689,534            0         85,195              0        258,863     2021-02-25T04:49:48.689Z
+   Gabon                             GA   gabon                                    350        14,234            4             80            285         12,846     2021-02-25T04:49:48.689Z
+   Gambia                            GM   gambia                                     0         4,612            0            146              0          4,089     2021-02-25T04:49:48.689Z
+   Georgia                           GE   georgia                                  443       269,438            6          3,463            461        263,257     2021-02-25T04:49:48.689Z
+   Germany                           DE   germany                                5,764     2,405,263          422         68,785          9,533      2,221,972     2021-02-25T04:49:48.689Z
+   Ghana                             GH   ghana                                    486        81,245            2            584            682         74,047     2021-02-25T04:49:48.689Z
+   Greece                            GR   greece                                 1,903       184,686           28          6,371              0         93,764     2021-02-25T04:49:48.689Z
+   Grenada                           GD   grenada                                    0           148            0              1              0            147     2021-02-25T04:49:48.689Z
+   Guatemala                         GT   guatemala                                692       172,764           12          6,327            649        159,855     2021-02-25T04:49:48.689Z
+   Guinea                            GN   guinea                                   193        15,680            1             88             13         14,798     2021-02-25T04:49:48.689Z
+   Guinea-Bissau                     GW   guinea-bissau                             15         3,171            1             48             18          2,578     2021-02-25T04:49:48.689Z
+   Guyana                            GY   guyana                                     5         8,457            2            192             26          7,834     2021-02-25T04:49:48.689Z
+   Haiti                             HT   haiti                                     43        12,352            0            247             34          9,570     2021-02-25T04:49:48.689Z
+   Holy See (Vatican City State)     VA   holy-see-vatican-city-state                0            27            0              0              0             15     2021-02-25T04:49:48.689Z
+   Honduras                          HN   honduras                                   0       166,547            0          4,040              0         64,891     2021-02-25T04:49:48.689Z
+   Hungary                           HU   hungary                                2,855       410,129          102         14,552          2,602        313,450     2021-02-25T04:49:48.689Z
+   Iceland                           IS   iceland                                    0         6,049            0             29              1          6,004     2021-02-25T04:49:48.689Z
+   India                             IN   india                                 13,742    11,030,176          104        156,567         14,037     10,726,702     2021-02-25T04:49:48.689Z
+   Indonesia                         ID   indonesia                              7,533     1,306,141          240         35,254          7,735      1,112,725     2021-02-25T04:49:48.689Z
+   Iran, Islamic Republic of         IR   iran                                   8,270     1,598,875           73         59,736          6,712      1,365,253     2021-02-25T04:49:48.689Z
+   Iraq                              IQ   iraq                                   4,306       680,288           13         13,324          2,110        625,447     2021-02-25T04:49:48.689Z
+   Ireland                           IE   ireland                                  540       216,840           56          4,237              0         23,364     2021-02-25T04:49:48.689Z
+   Israel                            IL   israel                                 4,184       763,756           26          5,660          5,367        717,695     2021-02-25T04:49:48.689Z
+   Italy                             IT   italy                                 13,299     2,832,162          356         96,348         12,898      2,347,866     2021-02-25T04:49:48.689Z
+   Jamaica                           JM   jamaica                                  193        22,019            1            406             61         13,107     2021-02-25T04:49:48.689Z
+   Japan                             JP   japan                                  1,103       426,828           54          7,595          1,559        401,653     2021-02-25T04:49:48.689Z
+   Jordan                            JO   jordan                                 4,024       376,441           22          4,611          1,807        341,021     2021-02-25T04:49:48.689Z
+   Kazakhstan                        KZ   kazakhstan                                 0       258,609            0          3,155              0        234,889     2021-02-25T04:49:48.689Z
+   Kenya                             KE   kenya                                    280       104,780            2          1,839            713         86,378     2021-02-25T04:49:48.689Z
+   Korea (South)                     KR   korea-south                                0        88,120            0          1,576              0         79,050     2021-02-25T04:49:48.689Z
+   Kuwait                            KW   kuwait                                 1,001       187,005            5          1,062            960        175,048     2021-02-25T04:49:48.689Z
+   Kyrgyzstan                        KG   kyrgyzstan                                24        86,025            0          1,460             59         82,938     2021-02-25T04:49:48.689Z
+   Lao PDR                           LA   lao-pdr                                    0            45            0              0              0             42     2021-02-25T04:49:48.689Z
+   Latvia                            LV   latvia                                   983        83,445           17          1,587            956         72,462     2021-02-25T04:49:48.689Z
+   Lebanon                           LB   lebanon                                3,513       362,850           62          4,508          2,592        277,741     2021-02-25T04:49:48.689Z
+   Lesotho                           LS   lesotho                                    0        10,467            0            291              0          3,418     2021-02-25T04:49:48.689Z
+   Liberia                           LR   liberia                                    4         2,002            0             85              4          1,883     2021-02-25T04:49:48.689Z
+   Libya                             LY   libya                                    561       131,262           26          2,151            974        117,991     2021-02-25T04:49:48.689Z
+   Liechtenstein                     LI   liechtenstein                              0         2,553            0             54              0          2,484     2021-02-25T04:49:48.689Z
+   Lithuania                         LT   lithuania                                648       195,481           11          3,200            590        181,230     2021-02-25T04:49:48.689Z
+   Luxembourg                        LU   luxembourg                               324        54,678            3            632            119         51,064     2021-02-25T04:49:48.689Z
+   Macedonia, Republic of            MK   macedonia                                715       100,632           13          3,098            215         90,311     2021-02-25T04:49:48.689Z
+   Madagascar                        MG   madagascar                                 0        19,831            0            297              0         19,296     2021-02-25T04:49:48.689Z
+   Malawi                            MW   malawi                                   189        31,295            5          1,029            125         17,570     2021-02-25T04:49:48.689Z
+   Malaysia                          MY   malaysia                               3,545       291,774           12          1,088          3,331        260,009     2021-02-25T04:49:48.689Z
+   Maldives                          MV   maldives                                 124        19,162            0             60            104         16,646     2021-02-25T04:49:48.689Z
+   Mali                              ML   mali                                       8         8,332            0            348             41          6,346     2021-02-25T04:49:48.689Z
+   Malta                             MT   malta                                    226        21,532            2            308            220         18,720     2021-02-25T04:49:48.689Z
+   Marshall Islands                  MH   marshall-islands                           0             4            0              0              0              4     2021-02-25T04:49:48.689Z
+   Mauritania                        MR   mauritania                                28        17,158            2            439             25         16,497     2021-02-25T04:49:48.689Z
+   Mauritius                         MU   mauritius                                  0           610            0             10              0            571     2021-02-25T04:49:48.689Z
+   Mexico                            MX   mexico                                 8,634     2,052,266        1,273        181,809          5,845      1,607,869     2021-02-25T04:49:48.689Z
+   Micronesia, Federated States of   FM   micronesia                                 0             1            0              0              0              1     2021-02-25T04:49:48.689Z
+   Moldova                           MD   moldova                                1,610       180,150           23          3,846            520        163,896     2021-02-25T04:49:48.689Z
+   Monaco                            MC   monaco                                    12         1,916            0             23             14          1,683     2021-02-25T04:49:48.689Z
+   Mongolia                          MN   mongolia                                   0         2,755            0              2              0          2,070     2021-02-25T04:49:48.689Z
+   Montenegro                        ME   montenegro                               643        73,612            7            976            502         64,240     2021-02-25T04:49:48.689Z
+   Morocco                           MA   morocco                                  419       482,128           18          8,592            710        466,815     2021-02-25T04:49:48.689Z
+   Mozambique                        MZ   mozambique                               325        56,920            2            608            300         37,870     2021-02-25T04:49:48.689Z
+   Myanmar                           MM   myanmar                                   33       141,816            0          3,197             47        131,405     2021-02-25T04:49:48.689Z
+   Namibia                           NA   namibia                                   80        37,976            2            413            331         35,750     2021-02-25T04:49:48.689Z
+   Nepal                             NP   nepal                                     94       273,760          619          2,684             71        270,139     2021-02-25T04:49:48.689Z
+   Netherlands                       NL   netherlands                            3,797     1,064,598           94         15,343              0              0     2021-02-25T04:49:48.689Z
+   New Zealand                       NZ   new-zealand                                0         2,365            0             26              0          2,277     2021-02-25T04:49:48.689Z
+   Nicaragua                         NI   nicaragua                                  0         6,445            0            173              0          4,225     2021-02-25T04:49:48.689Z
+   Niger                             NE   niger                                      0         4,740            0            172              0          4,250     2021-02-25T04:49:48.689Z
+   Nigeria                           NG   nigeria                                  655       153,842           11          1,885            875        130,818     2021-02-25T04:49:48.689Z
+   Norway                            NO   norway                                   341        69,489           12            620              0         17,998     2021-02-25T04:49:48.689Z
+   Oman                              OM   oman                                     311       140,300            1          1,558            242        131,385     2021-02-25T04:49:48.689Z
+   Pakistan                          PK   pakistan                               1,196       574,580           50         12,708          1,964        538,207     2021-02-25T04:49:48.689Z
+   Palestinian Territory             PS   palestine                              1,391       177,768            5          1,999          1,038        163,795     2021-02-25T04:49:48.689Z
+   Panama                            PA   panama                                     0       337,805            0          5,772              0        322,238     2021-02-25T04:49:48.689Z
+   Papua New Guinea                  PG   papua-new-guinea                          28         1,139            1             11              0            846     2021-02-25T04:49:48.689Z
+   Paraguay                          PY   paraguay                               1,114       154,904           18          3,119            900        129,631     2021-02-25T04:49:48.689Z
+   Peru                              PE   peru                                   3,448     1,286,757          166         45,263          5,757      1,188,995     2021-02-25T04:49:48.689Z
+   Philippines                       PH   philippines                            1,555       566,420           22         12,129            380        523,321     2021-02-25T04:49:48.689Z
+   Poland                            PL   poland                                12,147     1,661,109          372         42,808          2,465      1,391,981     2021-02-25T04:49:48.689Z
+   Portugal                          PT   portugal                               1,480       800,586           50         16,136          3,078        709,054     2021-02-25T04:49:48.689Z
+   Qatar                             QA   qatar                                    459       161,803            0            257            562        151,787     2021-02-25T04:49:48.689Z
+   Republic of Kosovo                XK   kosovo                                   829        67,569            7          1,582            560         58,921     2021-02-25T04:49:48.689Z
+   Romania                           RO   romania                                3,337       788,048           73         20,086          2,797        731,049     2021-02-25T04:49:48.689Z
+   Russian Federation                RU   russia                                11,679     4,142,126          411         82,666         12,832      3,697,787     2021-02-25T04:49:48.689Z
+   Rwanda                            RW   rwanda                                   118        18,443            1            254             13         17,264     2021-02-25T04:49:48.689Z
+   Saint Kitts and Nevis             KN   saint-kitts-and-nevis                      0            41            0              0              0             39     2021-02-25T04:49:48.689Z
+   Saint Lucia                       LC   saint-lucia                                0         3,142            0             32              0          2,745     2021-02-25T04:49:48.689Z
+   Saint Vincent and Grenadines      VC   saint-vincent-and-the-grenadines           0         1,511            0              6              0            845     2021-02-25T04:49:48.689Z
+   Samoa                             WS   samoa                                      0             3            0              0              0              2     2021-02-25T04:49:48.689Z
+   San Marino                        SM   san-marino                                 0         3,538            0             73              0          3,167     2021-02-25T04:49:48.689Z
+   Sao Tome and Principe             ST   sao-tome-and-principe                     17         1,672            1             27             17          1,288     2021-02-25T04:49:48.689Z
+   Saudi Arabia                      SA   saudi-arabia                             353       376,021            5          6,475            280        367,015     2021-02-25T04:49:48.689Z
+   Senegal                           SN   senegal                                  211        33,453            8            840            199         27,893     2021-02-25T04:49:48.689Z
+   Serbia                            RS   serbia                                 3,460       446,313           17          4,383              0              0     2021-02-25T04:49:48.689Z
+   Seychelles                        SC   seychelles                                48         2,562            0             11             32          2,048     2021-02-25T04:49:48.689Z
+   Sierra Leone                      SL   sierra-leone                              18         3,880            0             79              3          2,612     2021-02-25T04:49:48.689Z
+   Singapore                         SG   singapore                                  7        59,890            0             29              8         59,761     2021-02-25T04:49:48.689Z
+   Slovakia                          SK   slovakia                               3,547       298,337          104          6,775              0        255,300     2021-02-25T04:49:48.689Z
+   Slovenia                          SI   slovenia                               1,089       187,005           10          3,802          1,378        171,905     2021-02-25T04:49:48.689Z
+   Solomon Islands                   SB   solomon-islands                            0            18            0              0              0             14     2021-02-25T04:49:48.689Z
+   Somalia                           SO   somalia                                  303         6,549           10            218              5          3,783     2021-02-25T04:49:48.689Z
+   South Africa                      ZA   south-africa                           1,862     1,507,448          110         49,523          3,163      1,422,622     2021-02-25T04:49:48.689Z
+   South Sudan                       SS   south-sudan                              126         7,224            0             87              0          4,014     2021-02-25T04:49:48.689Z
+   Spain                             ES   spain                                  7,461     3,161,432          443         68,079              0        150,376     2021-02-25T04:49:48.689Z
+   Sri Lanka                         LK   sri-lanka                                458        81,467            4            457            672         76,514     2021-02-25T04:49:48.689Z
+   Sudan                             SD   sudan                                     31        30,236            0          1,876              0         22,823     2021-02-25T04:49:48.689Z
+   Suriname                          SR   suriname                                  12         8,892            0            170             12          8,371     2021-02-25T04:49:48.689Z
+   Swaziland                         SZ   swaziland                                 58        16,897            2            649            188         13,801     2021-02-25T04:49:48.689Z
+   Sweden                            SE   sweden                                10,933       642,099           64         12,713              0              0     2021-02-25T04:49:48.689Z
+   Switzerland                       CH   switzerland                            1,343       552,698           12          9,942              0        317,600     2021-02-25T04:49:48.689Z
+   Syrian Arab Republic (Syria)      SY   syria                                     61        15,343            4          1,008             79          9,468     2021-02-25T04:49:48.689Z
+   Taiwan, Republic of China         TW   taiwan                                     4           946            0              9              6            899     2021-02-25T04:49:48.689Z
+   Tajikistan                        TJ   tajikistan                                 0        13,308            0             90              0         13,218     2021-02-25T04:49:48.689Z
+   Tanzania, United Republic of      TZ   tanzania                                   0           509            0             21              0            183     2021-02-25T04:49:48.689Z
+   Thailand                          TH   thailand                                   0        25,692            0             83              0         24,542     2021-02-25T04:49:48.689Z
+   Timor-Leste                       TL   timor-leste                                2           109            0              0              6             88     2021-02-25T04:49:48.689Z
+   Togo                              TG   togo                                      82         6,548            1             82             59          5,447     2021-02-25T04:49:48.689Z
+   Trinidad and Tobago               TT   trinidad-and-tobago                        0         7,686            0            139              0          7,423     2021-02-25T04:49:48.689Z
+   Tunisia                           TN   tunisia                                  662       230,443           26          7,869          2,127        192,282     2021-02-25T04:49:48.689Z
+   Turkey                            TR   turkey                                 9,561     2,665,194           72         28,285          5,297      2,540,293     2021-02-25T04:49:48.689Z
+   Uganda                            UG   uganda                                    18        40,261            1            334              1         14,616     2021-02-25T04:49:48.689Z
+   Ukraine                           UA   ukraine                                4,326     1,358,871          159         26,690          4,475      1,193,334     2021-02-25T04:49:48.689Z
+   United Arab Emirates              AE   united-arab-emirates                   3,102       378,637           19          1,164          3,814        370,381     2021-02-25T04:49:48.689Z
+   United Kingdom                    GB   united-kingdom                         8,523     4,146,760          548        121,536            111         11,457     2021-02-25T04:49:48.689Z
+   United States of America          US   united-states                         71,436    28,261,595        2,350        502,660              0              0     2021-02-25T04:49:48.689Z
+   Uruguay                           UY   uruguay                                  901        54,874            3            591            523         48,035     2021-02-25T04:49:48.689Z
+   Uzbekistan                        UZ   uzbekistan                                32        79,749            0            622             67         78,252     2021-02-25T04:49:48.689Z
+   Vanuatu                           VU   vanuatu                                    0             1            0              0              0              1     2021-02-25T04:49:48.689Z
+   Venezuela (Bolivarian Republic)   VE   venezuela                                  0       136,986            0          1,325              0        129,027     2021-02-25T04:49:48.689Z
+   Viet Nam                          VN   vietnam                                    9         2,412            0             35             30          1,790     2021-02-25T04:49:48.689Z
+   Yemen                             YE   yemen                                     34         2,221            4            624              1          1,433     2021-02-25T04:49:48.689Z
+   Zambia                            ZM   zambia                                   902        76,484           11          1,051            367         69,803     2021-02-25T04:49:48.689Z
+   Zimbabwe                          ZW   zimbabwe                                  50        35,960            8          1,456            122         32,410     2021-02-25T04:49:48.689Z
+==============================================================================================================================================================================================
+
