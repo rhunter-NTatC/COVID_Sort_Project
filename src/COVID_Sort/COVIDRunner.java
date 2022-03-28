@@ -24,7 +24,7 @@ public class COVIDRunner {
 		Scanner inKey = new Scanner(System.in);
 		
 		int input = 0;
-		while (input != 9) {
+		while (input != 10) {
 			printMenu();
 			input = inKey.nextInt();
 			System.out.println("\n");
@@ -55,6 +55,7 @@ public class COVIDRunner {
 				printList(jsonData);
 				break;
 			case 7:
+			case 8:
 				if (checkSortConfirmed(data)) {
 					System.out.print("\n\n      Enter the bottom of the range: ");
 					int bottom = inKey.nextInt();
@@ -66,7 +67,7 @@ public class COVIDRunner {
 					System.out.println("\n\n      Error: Must sort by Total Confirmed Cases 1st\n\n");
 				}
 				break;
-			case 8:
+			case 9:
 				if (checkSortDeaths(data)) {
 					System.out.print("\n\n      Enter the bottom of the range: ");
 					int bottom = inKey.nextInt();
@@ -78,7 +79,7 @@ public class COVIDRunner {
 					System.out.println("\n\n      Error: Must sort by Total Deaths 1st\n\n");
 				}
 				break;
-			case 9:
+			case 10:
 				break;
 			default:
 				System.out.println("\n\n      Not a Valid Input");
@@ -102,9 +103,10 @@ public class COVIDRunner {
 		System.out.println("      4: Recovered:        Total");
 		System.out.println("      5: Deaths:           New");
 		System.out.println("      6: Deaths:           Total");
-		System.out.println("      7: Print Range:      Total Confirmed Cases");
-		System.out.println("      8: Print Range:      Total Deaths");	
-		System.out.println("      9: Exit");
+		System.out.println("      7: Alphabetic");
+		System.out.println("      8: Print Range:      Total Confirmed Cases");
+		System.out.println("      9: Print Range:      Total Deaths");	
+		System.out.println("      10: Exit");
 		System.out.print("\n      Enter Choice: ");
 	}
 	
